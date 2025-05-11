@@ -5,12 +5,12 @@
 	<remote name="kernel"            		fetch="https://github.com/rubyx-devs"   revision="lineage-22.0" />
 	<remote name="rubyx-devs"            		fetch="https://github.com/rubyx-devs"   revision="lineage-22.2" />
     <!--Devices Trees-->
-    	<project name="device_xiaomi_rubyx"           	path="device/xiaomi/rubyx"      	remote="rubyx-priv" />
+    	<project name="device_xiaomi_rubyx"           	path="device/xiaomi/rubyx"      	remote="rubyx-devs" />
 	<project name="device_xiaomi_miuicamera-rubyx"  path="device/xiaomi/miuicamera-rubyx"   remote="rubyx-devs" />
 	<project name="device_mediatek_sepolicy_vndr"	path="device/mediatek/sepolicy_vndr"    remote="rubyx-devs" />
 
     <!--Vendors Tree-->
-    	<project name="vendor_xiaomi_rubyx"       	path="vendor/xiaomi/rubyx"       	remote="rubyx-priv" />
+    	<project name="vendor_xiaomi_rubyx"       	path="vendor/xiaomi/rubyx"       	remote="rubyx-devs" />
 	<project name="vendor_xiaomi_miuicamera-rubyx"  path="vendor/xiaomi/miuicamera-rubyx"   remote="rubyx-devs" />
    
     <!--Kernel Tree-->
