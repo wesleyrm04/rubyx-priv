@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!--Remotes-->
+    	<remote name="rubyx-priv"            		fetch="https://github.com/wesleyrm04"   revision="lineage-22.2" />
 	<remote name="kernel"            		fetch="https://github.com/rubyx-devs"   revision="lineage-22.0" />
 	<remote name="rubyx-devs"            		fetch="https://github.com/rubyx-devs"   revision="lineage-22.2" />
     <!--Devices Trees-->
@@ -20,5 +21,3 @@
 	<project name="hardware_xiaomi"                 path="hardware/xiaomi"             	remote="rubyx-devs" />
 
 </manifest>
-
-
