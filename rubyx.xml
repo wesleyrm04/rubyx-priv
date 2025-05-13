@@ -13,6 +13,7 @@
     <!--Vendors Tree-->
     	<project name="vendor_xiaomi_rubyx"       	path="vendor/xiaomi/rubyx"       	remote="rubyx-priv" />
 	<project name="vendor_xiaomi_miuicamera-rubyx"  path="vendor/xiaomi/miuicamera-rubyx"   remote="rubyx-aeron" revision="lineage-22.0" />
+	<project name="packages_apps_ViPER4AndroidFX"   path="packages/apps/ViPER4AndroidFX/"   remote="rubyx-aeron" revision="main" />
    
     <!--Kernel Tree-->
     	<project name="kernel_xiaomi_mt6877"            path="kernel/xiaomi/mt6877"        	remote="kernel"  />
